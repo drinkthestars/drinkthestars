@@ -18,7 +18,7 @@ Pronouns -> she/her
 ---
 
 #### 🔭 WIPs
-- 🧪 Implementing [The Coding Train's](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) [Processing](https://processing.org/) in Jetpack Compose
+- 🧪 Implementing [The Coding Train's](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) [Processing](https://processing.org/) challenges in Jetpack Compose
 - 📚 A couple of Android pet projects
 - ⏳ A website/blog built on the [Jamstack](https://jamstack.org/)
 
