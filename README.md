@@ -1,4 +1,6 @@
 ### Hi there! 👋  I'm Tasha!
+[<img align="left" alt="TashaRamesh | Twitter" width="22px" src="./simpleicons/twitter.svg" />](https://twitter.com/TashaRamesh)
+[<img align="left" alt="drinkthestars | Dev.to" width="22px" src="./simpleicons/devdotto.svg" />](https://dev.to/drinkthestars)
 
 `Welcome & thank you for visiting! ✨✨`
 
@@ -34,7 +36,3 @@ Pronouns -> she/her
 #### 💬 Ask me about
 - 🧹 Scaling UI code & keeping it tidy
 - 🤝 Collabing with product & design teams as an engineer
-
-
-##### ⚡ Fun fact
-- 🧘🏽‍♀ I try to get in at least 15min of meditation every day
