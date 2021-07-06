@@ -8,8 +8,8 @@ Currently working as an Android engineer. I love learning new things
 and experiencing the variety in dev experience across platforms...
 
 - Most recently been dabbling with [Jetpack Compose 🤖](https://developer.android.com/jetpack/compose)
-- Also trying to revisit web dev after 7+ years 😅 
-- When I'm not coding, I like to dabble in electronic music production 🎛️
+- Trying to revisit web dev after 7+ years 😅 
+- When I'm not coding, I dabble in music production 🎛️
 
 Pronouns -> she/her
 
