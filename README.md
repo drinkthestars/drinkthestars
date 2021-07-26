@@ -25,12 +25,13 @@ Pronouns -> she/her
 
 
 #### 🌱 Currently learning
-- 🥞 The [Jamstack](https://jamstack.org/), 🖥️ [Compose Desktop](https://www.jetbrains.com/lp/compose/)
+- 🥞 The [Jamstack](https://jamstack.org/)
+- 🖥️ [Compose Desktop](https://www.jetbrains.com/lp/compose/)
 - 🤝 How to engage with the greater dev community to learn/teach/share
 
 
 #### 👯 Collaborating
-- 🔍 On the lookout for more OSS projects to contribute to
+- 🔍 On the lookout for OSS projects to contribute to
 
 
 #### 💬 Ask me about
