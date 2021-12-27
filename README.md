@@ -18,7 +18,7 @@ and experiencing the variety in dev experience across platforms...
 #### 🌱 Currently learning
 - 🥞 The [Jamstack](https://jamstack.org/)/React
 - [🖥️ Compose Desktop/ 🌐 Compose Web](https://www.jetbrains.com/lp/compose-mpp/)
-- ⛓️ What Solidity/blockchain dev looks like and what its all about
+- ⛓️ What Solidity/blockchain dev [looks like](https://www.youtube.com/watch?v=M576WGiDBdQ) and what its all about
 
 
 #### 👯 Collaborating
