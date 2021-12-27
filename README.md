@@ -9,23 +9,16 @@
 Currently working as an Android engineer. I love learning new things 
 and experiencing the variety in dev experience across platforms...
 
-- Most recently been dabbling with [Jetpack Compose 🤖](https://developer.android.com/jetpack/compose)
-- Re-learning frontend/fullstack web dev
-- When I'm not coding, I dabble in music production
-
-Pronouns -> she/her
-
----
-
-#### 🔭 WIPs
-- 🧪 Implementing [The Coding Train's](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) [Processing](https://processing.org/) challenges in Jetpack Compose
+#### 🏗️ WIPs
+- 🧪 Implementing [The Coding Train's](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) [Processing](https://processing.org/) challenges in [Jetpack Compose 🤖](https://developer.android.com/jetpack/compose)
 - 📚 A couple of Android pet projects
 - ⏳ A website/blog built on the [Jamstack](https://jamstack.org/)
 
 
 #### 🌱 Currently learning
-- 🥞 The [Jamstack](https://jamstack.org/)
-- 🖥️ [Compose Desktop](https://www.jetbrains.com/lp/compose/)
+- 🥞 The [Jamstack](https://jamstack.org/)/React
+- [🖥️ Compose Desktop/ 🌐 Compose Web](https://www.jetbrains.com/lp/compose-mpp/)
+- ⛓️ What Solidity/blockchain dev looks like and what its all about
 
 
 #### 👯 Collaborating
