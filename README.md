@@ -6,8 +6,7 @@
 
 
 #### 🔮 A little about me
-Currently working as an Android engineer. I love learning new things 
-and experiencing the variety in dev experience across platforms...
+Currently working as an Android engineer
 
 #### 🏗️ WIPs
 - 🧪 Implementing [The Coding Train's](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) [Processing](https://processing.org/) challenges in [Jetpack Compose 🤖](https://developer.android.com/jetpack/compose)
@@ -18,7 +17,7 @@ and experiencing the variety in dev experience across platforms...
 #### 🌱 Currently learning
 - 🥞 The [Jamstack](https://jamstack.org/)/React
 - [🖥️ Compose Desktop/ 🌐 Compose Web](https://www.jetbrains.com/lp/compose-mpp/)
-- ⛓️ What Solidity/blockchain dev [looks like](https://www.youtube.com/watch?v=M576WGiDBdQ)
+- ⛓️ Basics of Solidity/blockchain dev [looks like](https://www.youtube.com/watch?v=M576WGiDBdQ)
 
 
 #### 👯 Collaborating
