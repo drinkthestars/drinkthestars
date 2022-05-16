@@ -2,11 +2,9 @@
 [<img align="left" alt="TashaRamesh | Twitter" width="22px" src="./simpleicons/twitter.svg" />](https://twitter.com/TashaRamesh)
 [<img align="left" alt="drinkthestars | Dev.to" width="22px" src="./simpleicons/devdotto.svg" />](https://dev.to/drinkthestars)
 
-`Welcome & thank you for visiting! ✨✨`
-
 
 #### 🔮 A little about me
-Currently working as an Android engineer
+Currently working as an Android engineer. In my spare time I'm trying to get back into web development, creative coding, & learn other stacks.
 
 #### 🏗️ WIPs
 - 🧪 Implementing [The Coding Train's](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) [Processing](https://processing.org/) challenges in [Jetpack Compose 🤖](https://developer.android.com/jetpack/compose)
