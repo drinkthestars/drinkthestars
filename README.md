@@ -2,6 +2,7 @@
 [<img align="left" alt="TashaRamesh | Twitter" width="22px" src="./simpleicons/twitter.svg" />](https://twitter.com/TashaRamesh)
 [<img align="left" alt="drinkthestars | Dev.to" width="22px" src="./simpleicons/devdotto.svg" />](https://dev.to/drinkthestars)
 
+<br/>
 
 #### 🔮 About
 Currently working as an Android engineer, focused primarily on UI/UX. In my spare time I'm trying to get back into web development, creative coding, & learn other stacks.
