@@ -5,13 +5,12 @@
 <br/>
 
 #### 🔮 About
-Currently working as an Android engineer, focused primarily on UI/UX. In my spare time I'm trying to get back into web development, creative coding, & learn other stacks.
+Currently working as an Android engineer. In my spare time I dabble in creative coding, and I'm trying to get back into web development, & learn other stacks.
 
 #### 🏗️ WIPs
+- 📃 Organizing a bunch of AGSL shaders that I've been using for generative art
 - 🧪 Implementing [The Coding Train's](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) [Processing](https://processing.org/) challenges in [Jetpack Compose 🤖](https://developer.android.com/jetpack/compose)
-- 📚 A couple of Android pet projects
-- ⏳ A website/blog built on the [Jamstack](https://jamstack.org/)
-
+- 📚 A couple of other random Android pet projects
 
 #### 🌱 Currently learning
 - 🥞 The [Jamstack](https://jamstack.org/)/React
