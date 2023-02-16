@@ -13,9 +13,9 @@ Currently working as an Android engineer. In my spare time I dabble in creative 
 - 📚 A couple of other random Android pet projects
 
 #### 🌱 Currently learning
-- 🥞 The [Jamstack](https://jamstack.org/)/React
-- [🖥️ Compose Desktop/ 🌐 Compose Web](https://www.jetbrains.com/lp/compose-mpp/)
-- [three.js](https://github.com/mrdoob/three.js/)
+- [p5.js](https://p5js.org/), [three.js](https://github.com/mrdoob/three.js/)
+- [Processing](https://processing.org/)
+- [Compose Desktop/Compose Web](https://www.jetbrains.com/lp/compose-mpp/)
 
 
 #### 👯 Collaborating
