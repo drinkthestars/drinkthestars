@@ -5,7 +5,7 @@
 <br/>
 
 #### 🔮 About
-Currently working as an Android engineer. In my spare time I dabble in creative coding, and I'm trying to get back into web development, & learn other stacks.
+Currently working as an Android engineer. In my spare time I dabble in creative coding. In my spare spare time, I'm trying to get back into web development, & learn other stacks.
 
 #### 🏗️ WIPs
 - 📃 Organizing a bunch of AGSL shaders that I've been using for generative art
