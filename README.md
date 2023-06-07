@@ -1,8 +1,3 @@
-### Hi there! 👋
-[<img align="left" alt="TashaRamesh | Twitter" width="22px" src="./simpleicons/twitter.svg" />](https://twitter.com/TashaRamesh)
-
-<br/>
-
 #### 🔮 About
 Currently working as an Android engineer. In my spare time I dabble in creative coding. In my spare spare time, I'm trying to get back into web development, & learn other stacks.
 
